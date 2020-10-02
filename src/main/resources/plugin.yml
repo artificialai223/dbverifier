@@ -1,0 +1,4 @@
+name: DBVerifier
+version: 1.6.0
+author: staticfx
+main: de.staticred.discordbot.DBVerifier
